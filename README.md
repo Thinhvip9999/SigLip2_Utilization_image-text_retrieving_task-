@@ -27,5 +27,4 @@ The primary objective of this project is to bridge the semantic gap between visu
 
 **Author:** Thinhip9999  
 **Competition:** HCM_AI  
-**Server:** 5060  
 **Dataset Size:** >400K images  
